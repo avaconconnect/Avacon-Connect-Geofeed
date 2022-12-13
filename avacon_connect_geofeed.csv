@@ -1,9 +1,9 @@
 # prefix,country_code,region_code,city,postal
-85.190.224.0/22,DE,Lower-Saxony,Laatzen,30880
-185.35.132.0/22,DE,Lower-Saxony,Laatzen,30880
-185.160.100.0/22,DE,Lower-Saxony,Laatzen,30880
-185.170.168.0/22,DE,Lower-Saxony,Laatzen,30880
-185.172.40.0/22,DE,Lower-Saxony,Laatzen,30880
-185.198.220.0/22,DE,Lower-Saxony,Laatzen,30880
-185.211.144.0/22,DE,Lower-Saxony,Laatzen,30880
-185.233.240.0/22,DE,Lower-Saxony,Laatzen,30880
+85.190.224.0/22,DE,DE-NI,Laatzen,30880
+185.35.132.0/22,DE,DE-NI,Laatzen,30880
+185.160.100.0/22,DE,DE-NI,Laatzen,30880
+185.170.168.0/22,DE,DE-NI,Laatzen,30880
+185.172.40.0/22,DE,DE-NI,Laatzen,30880
+185.198.220.0/22,DE,DE-NI,Laatzen,30880
+185.211.144.0/22,DE,DE-NI,Laatzen,30880
+185.233.240.0/22,DE,DE-NI,Laatzen,30880
